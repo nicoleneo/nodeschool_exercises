@@ -2,9 +2,10 @@
   "name": "learnyounode",
   "version": "1.0.0",
   "description": "",
-  "main": "q1.js",
+  "main": "index.js",
   "dependencies": {
-    "through2-map": "^2.0.0"
+    "through2-map": "^2.0.0",
+    "node-fetch": "^1.5.3"
   },
   "devDependencies": {},
   "scripts": {
